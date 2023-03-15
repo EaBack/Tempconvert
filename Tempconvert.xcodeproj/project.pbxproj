@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B11B234929C0FEBC0065BBCF /* CelciusConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11B234829C0FEBC0065BBCF /* CelciusConverter.swift */; };
 		B1D4203029C0A23B00C3D06A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4202F29C0A23B00C3D06A /* AppDelegate.swift */; };
 		B1D4203229C0A23B00C3D06A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4203129C0A23B00C3D06A /* SceneDelegate.swift */; };
 		B1D4203429C0A23B00C3D06A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4203329C0A23B00C3D06A /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B11B234829C0FEBC0065BBCF /* CelciusConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelciusConverter.swift; sourceTree = "<group>"; };
 		B1D4202C29C0A23B00C3D06A /* Tempconvert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tempconvert.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1D4202F29C0A23B00C3D06A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1D4203129C0A23B00C3D06A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				B1D4202F29C0A23B00C3D06A /* AppDelegate.swift */,
 				B1D4203129C0A23B00C3D06A /* SceneDelegate.swift */,
 				B1D4203329C0A23B00C3D06A /* ViewController.swift */,
+				B11B234829C0FEBC0065BBCF /* CelciusConverter.swift */,
 				B1D4203529C0A23B00C3D06A /* Main.storyboard */,
 				B1D4203829C0A24100C3D06A /* Assets.xcassets */,
 				B1D4203A29C0A24100C3D06A /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1D4203429C0A23B00C3D06A /* ViewController.swift in Sources */,
+				B11B234929C0FEBC0065BBCF /* CelciusConverter.swift in Sources */,
 				B1D4203029C0A23B00C3D06A /* AppDelegate.swift in Sources */,
 				B1D4203229C0A23B00C3D06A /* SceneDelegate.swift in Sources */,
 			);
